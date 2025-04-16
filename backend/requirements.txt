@@ -1,0 +1,12 @@
+clickhouse-driver
+fastapi==0.68.2
+uvicorn==0.15.0
+clickhouse-connect==0.8.17
+numpy>=2.1.0
+pandas>=2.1.0
+python-multipart==0.0.6
+pyjwt==2.1.0
+python-dotenv==0.19.2
+starlette==0.14.2
+typing-extensions==4.7.1
+aiofiles==0.7.0
